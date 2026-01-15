@@ -11,7 +11,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@azure/functions": "4.7.2-preview",
+    "@azure/functions": "4.11.0",
     "@azure/functions-extensions-blob": "0.2.0-preview"
   },
   "devDependencies": {
